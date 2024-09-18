@@ -1,0 +1,18 @@
+.nav{
+  background-color: bisque;
+
+}
+ul{
+  display: flex;
+  justify-content: space-between;
+  min-height: 5vh;
+  padding: 10px;
+}
+li:hover{
+  background-color: aqua;
+  font-size: 20px;
+}
+li{
+  list-style: none;
+  
+}
